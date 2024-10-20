@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(61, 241, 241);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+    font-size: 50px;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 240, 239);
+    margin: auto;
+    padding: auto;
+    border-radius: 20px;
+    box-sizing: inherit;
+    box-shadow: inset;
+}
+
+#joke {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+}
